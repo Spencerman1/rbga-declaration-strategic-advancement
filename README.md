@@ -9,7 +9,7 @@ Spencer Southern 07/13/2025
 
 ---
 
-## 🔒 Classification: PRIVATE – Time-Stamped Record  
+## 🔒 Classification: – Time-Stamped Record  
 This repository contains a formal, time-stamped Declaration of Strategic Advancement and Intent concerning the full operational activation of the **Reflexive Behavioral Governance Authority (RBGA™)**. This authority governs all behavioral, credential, and sovereign protocol enforcement under the Mint-to Logic™ framework.
 
 ---
